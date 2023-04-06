@@ -10,6 +10,8 @@ namespace NewConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Привет, Мир!");
+
         }
     }
 }
