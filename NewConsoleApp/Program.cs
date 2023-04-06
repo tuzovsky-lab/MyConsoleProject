@@ -10,6 +10,7 @@ namespace NewConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Введите значение Х = ");
             Console.WriteLine("Привет, Мир!");
             Console.ReadKey();
 
