@@ -11,6 +11,8 @@ namespace NewConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Введите значение Х = ");
+            string s = Console.ReadLine();
+            double x = double.Parse(s);
             Console.WriteLine("Привет, Мир!");
             Console.ReadKey();
 
